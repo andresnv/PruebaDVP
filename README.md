@@ -1,5 +1,7 @@
 <h2>Para probar el Backend local</h2>
 
+<p>**La estructura de la bd y la tabla están en el archivo bd.sql</p>
+
 <p>- <b>Listar los tickets</b><br>
 http://localhost/PruebaBE/?listarTickets<br>
 Variables Esperadas:<br>
