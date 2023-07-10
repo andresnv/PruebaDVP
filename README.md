@@ -11,7 +11,7 @@ id_ticket<br></p>
 
 
 <p>- <b>Crear Tickets</b><br>
-http://localhost/PruebaBE/?crearTicketTicket<br>
+http://localhost/PruebaBE/?crearTicket<br>
 Variables Esperadas:<br>
 asunto<br>
 descripcion<br>
@@ -21,7 +21,7 @@ estatus<br></p>
 
 
 <p>- <b>Editar Tickets</b><br>
-http://localhost/PruebaBE/?crearTicketTicket<br>
+http://localhost/PruebaBE/?editarTicket<br>
 asunto<br>
 descripcion<br>
 prioridad<br>
